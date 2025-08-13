@@ -1,13 +1,13 @@
 # 🧱 nextjs-template
 
-A modern and minimal **Next.js 15** starter template featuring **React 18**, **Tailwind CSS**, **TypeScript**, and **Turbopack**. Ideal for building fast, scalable, and maintainable web applications.
+A modern and minimal **Next.js 15** starter template featuring **React 19**, **Tailwind CSS**, **TypeScript**, and **Turbopack**. Ideal for building fast, scalable, and maintainable web applications.
 
 ---
 
 ## 🚀 Features
 
-- ⚡️ **Next.js 15.4.4** with [Turbopack](https://turbo.build/pack) for blazing-fast dev performance
-- 💨 **Tailwind CSS 3.4** – utility-first CSS framework
+- ⚡️ **Next.js 15.4.6** with [Turbopack](https://turbo.build/pack) for blazing-fast dev performance
+- 💨 **Tailwind CSS 3.4.17** – utility-first CSS framework
 - 🔒 **TypeScript** for static typing
 - ✅ **ESLint** with Next.js config
 - 🧪 Ready-to-go development, linting, and production setup
@@ -18,11 +18,11 @@ A modern and minimal **Next.js 15** starter template featuring **React 18**, **T
 
 | Tool            | Version    |
 |-----------------|------------|
-| Next.js         | 15.4.4     |
-| React           | 18.3.1     |
-| TypeScript      | ^5         |
+| Next.js         | 15.4.6     |
+| React           | 19.1.1     |
+| TypeScript      | ^5.9.2     |
 | Tailwind CSS    | 3.4.17     |
-| ESLint          | ^9         |
+| ESLint          | ^9.33.0    |
 | PostCSS         | ^8.5.6     |
 | Turbopack       | Enabled via `next dev --turbopack` |
 
